@@ -49,7 +49,7 @@ I love learning how things work finding better ways to solve problems and turnin
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/farukhetro/farukhetro/main/assets/activity-graph.svg" alt="activity graph" />
+  <img width="700" src="https://raw.githubusercontent.com/farukhetro/farukhetro/main/activity-graph.svg" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
