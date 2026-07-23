@@ -10,8 +10,11 @@
 
 ### 🚀 About Me
 
-Curious builder who enjoys exploring new challenges and creating practical solutions  
-I love learning how things work finding better ways to solve problems and turning ideas into reality
+I'm someone who is driven by curiosity and enjoys exploring new ideas, challenging assumptions, and solving real-world problems. I believe learning never stops, and I'm always looking for opportunities to improve my knowledge, skills, and perspective.
+
+Rather than staying within a single field, I enjoy understanding how different technologies, systems, and businesses work together to create meaningful solutions. I like taking on difficult challenges because they push me to think deeper, adapt faster, and grow continuously.
+
+My approach is rooted in first-principles thinking, practicality, and continuous experimentation. I value building things that are useful, scalable, and have a lasting impact — whether that's an open-source project, a product, or a solution to an everyday problem. Collaboration, innovation, and lifelong learning are at the core of my journey, and I strive to leave every project knowing more than when I started, while creating something that genuinely helps others.
 
 🔭 &nbsp;I'm currently working on **Projects that solve real world problems and create meaningful impact**  
 🌱 &nbsp;I'm currently learning **System thinking product design entrepreneurship and emerging technologies**  
@@ -47,7 +50,19 @@ I love learning how things work finding better ways to solve problems and turnin
   <a href="mailto:farukhetro@proton.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farukhetro&show_icons=true&hide_border=true&bg_color=00000000&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukhetro&layout=compact&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043" alt="GitHub Streak" />
+</p>
+
 ### 📈 Contribution Graph
+
 <p align="center">
   <img width="700" src="https://raw.githubusercontent.com/farukhetro/farukhetro/main/activity-graph.svg" alt="activity graph" />
 </p>
@@ -58,5 +73,6 @@ I love learning how things work finding better ways to solve problems and turnin
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2ea043&height=3&section=footer" alt="divider" />
+
 <p align="center"><i>⭐️ From <a href="https://github.com/farukhetro">farukhetro</a></i></p>
