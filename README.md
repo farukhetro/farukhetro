@@ -53,11 +53,6 @@ My approach is rooted in first-principles thinking, practicality, and continuous
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=farukhetro&show_icons=true&hide_border=true&bg_color=00000000&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukhetro&layout=compact&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
