@@ -58,7 +58,7 @@ My approach is rooted in first-principles thinking, practicality, and continuous
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Graph
