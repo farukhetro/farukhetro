@@ -14,6 +14,20 @@
   />
 </p>
 
+........:::::::::........
+.....::::.:--:::::::.....
+...::::.:%@@@@@@-.::::...
+..::::..@%%@%@@@@:.::::..
+.::::...*=--=#%#@...::::.
+::::.....----*===...:::::
+::::.....-:-=+=+.....::::
+:::::.....=--=#-....:::::
+.::::..-**---++=@*=.::::.
+..:*#%@@%#:-=-:=@@@@@%=..
+..:%%@@@%%:..::#@@@@@@-..
+....=%%@@%:....@@@@@=....
+.......-%%#...+@%-.......
+
 ## 🚀 About Me
 
 I'm someone who is driven by curiosity and enjoys exploring new ideas, challenging assumptions, and solving real-world problems. I believe learning never stops, and I'm always looking for opportunities to improve my knowledge, skills, and perspective.
