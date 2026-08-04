@@ -49,7 +49,6 @@ My approach is rooted in first-principles thinking, practicality, and continuous
 <p align="left">
   <a href="https://www.linkedin.com/company/farukhetro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/farukhetro" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/farukhetro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@FarukHetro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.pinterest.com/farukhetro/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://farukhetro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -60,7 +59,7 @@ My approach is rooted in first-principles thinking, practicality, and continuous
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e"
+    src="https://streak-stats.demolab.com/?user=farukhetro&hide_border=true&background=00000000&ring=2ea043&fire=e3b341&currStreakLabel=2ea043&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e"
     alt="GitHub Streak"
   />
 </p>
@@ -70,7 +69,7 @@ My approach is rooted in first-principles thinking, practicality, and continuous
 <p align="center">
   <img
     width="900"
-    src="https://raw.githubusercontent.com/farukhetro/farukhetro/main/activity-graph.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farukhetro&theme=react-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=2ea043&point=e3b341"
     alt="Activity Graph"
   />
 </p>
