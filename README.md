@@ -28,11 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=farukhetro&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://img.shields.io/github/followers/farukhetro?label=Followers&style=for-the-badge&color=E3B341" alt="Followers" />
-
-<img src="https://img.shields.io/github/stars/farukhetro?label=Total%20Stars&style=for-the-badge&color=2ea043" alt="Total Stars" />
 
 </div>
 
